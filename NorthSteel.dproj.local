@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDM.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProviders.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDirProviders.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,E:\Projects\Delphi\NorthSteel\uProviders.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProviders.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=E:\Projects\Delphi\NorthSteel\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=E:\Projects\Delphi\NorthSteel\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.624,E:\Projects\Delphi\NorthSteel\uSupplies.dfm=E:\Projects\Delphi\NorthSteel\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProducts.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDM.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.624,E:\Projects\Delphi\NorthSteel\uSupplies.pas=E:\Projects\Delphi\NorthSteel\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uPrices.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,E:\Projects\Delphi\NorthSteel\uMain.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProviders.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDirProviders.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uPrices.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,E:\Projects\Delphi\NorthSteel\NorthSteel.dproj=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\NorthSteel.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.666,=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,E:\Projects\Delphi\NorthSteel\uAddSupply.pas=E:\Projects\Delphi\NorthSteel\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,E:\Projects\Delphi\NorthSteel\uMain.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,E:\Projects\Delphi\NorthSteel\uProducts.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProducts.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,E:\Projects\Delphi\NorthSteel\uPrices.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uPrices.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,E:\Projects\Delphi\NorthSteel\uProducts.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProducts.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,E:\Projects\Delphi\NorthSteel\uProviders.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProviders.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uProducts.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uMain.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,E:\Projects\Delphi\NorthSteel\uPrices.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uPrices.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,E:\Projects\Delphi\NorthSteel\uAddSupply.dfm=E:\Projects\Delphi\NorthSteel\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDirProviders.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\NorthSteel.dproj=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDirProviders.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,E:\Projects\Delphi\NorthSteel\uDM.pas=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uMain.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,E:\Projects\Delphi\NorthSteel\uDM.dfm=C:\Users\Mpakobec\Documents\Embarcadero\Studio\Projects\uDM.dfm</Transaction>
+  </Transactions>  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
